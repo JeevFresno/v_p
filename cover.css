@@ -66,6 +66,7 @@ body {
   margin-top: 10px;
   margin-bottom: 20px;
   margin-left: 90px;
+  align-self: center;
 }
 
 .masthead-nav > li {
