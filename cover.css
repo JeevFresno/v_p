@@ -64,8 +64,8 @@ body {
  */
 .masthead-brand {
   margin-top: 10px;
-  margin-bottom: 20px;
-  margin-left: 90px;
+  margin-bottom: 5px;
+  margin-left: 60px;
   align-self: center;
 }
 
@@ -100,6 +100,7 @@ body {
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
+    align:center;
   }
   .masthead-nav {
     float: right;
@@ -114,7 +115,7 @@ body {
 
 .cover {
   padding: 0 20px;
-  padding-top: 120px;
+  padding-top: 60px;
 }
 .cover .btn-lg {
   padding: 10px 20px;
